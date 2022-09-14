@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * time_table - function that prints the 9 times table starting wht 0
+ * times_table - function that prints the 9 times table starting wht 0
  * rw = row, col = column, d =digits
  *
  * Return: Always success
