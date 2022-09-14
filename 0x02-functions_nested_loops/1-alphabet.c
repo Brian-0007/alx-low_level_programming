@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet - prin the alphabet
+ * main - prin the alphabet
  *
  * Return: Always success
  */
@@ -14,4 +14,5 @@ void print_alphabet(void)
 		putchar(n);
 	}
 	putchar('\n');
+	return (0);
 }
