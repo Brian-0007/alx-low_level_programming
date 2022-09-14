@@ -5,7 +5,7 @@
  *
  * Return: Always success
  */
-void time_table(void)
+void times_table(void)
 {
 	int rw, col, d;
 
