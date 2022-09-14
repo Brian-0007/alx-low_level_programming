@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - prin the alphabet
+ * print_alphabet - prin the alphabet
  *
- * Return: Always success
+ * Return: 0
  */
 
 void print_alphabet(void)
@@ -14,5 +14,4 @@ void print_alphabet(void)
 		putchar(n);
 	}
 	putchar('\n');
-	return (0);
 }
