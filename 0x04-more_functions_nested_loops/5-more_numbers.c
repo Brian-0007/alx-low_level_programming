@@ -19,6 +19,6 @@ void more_numbers(void)
 			}
 			putchar((n2 % 10) + '0');
 		}
-		puchar(10);
+		putchar(10);
 	}
 }
