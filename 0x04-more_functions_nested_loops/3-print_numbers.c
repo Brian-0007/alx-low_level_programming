@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print numbers - function that prints all numers from 
- * 0 to 9
+ * print numbers - function that prints all numbers from 0 to 9
  *
  * Return: returns nothing
  */
