@@ -1,4 +1,4 @@
-include "main"
+#include "main"
 /**
  * mul - multiplies two numbers
  * @a: first number
